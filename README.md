@@ -59,5 +59,5 @@
 
  <!--  Ocean Gif  -->
 <p align="center">
- <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"><img      src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" style="max-width: 100%;"></a>
+ <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"><img      src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" style="max-width: 50%;"></a>
 </p>
