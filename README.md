@@ -63,10 +63,12 @@
 </p>
 <table>
   <tr>
-    <td>aa</td>
+    <td>Test Table</td>
+    <td>Column 1</td>
   </tr>
     <tr>
-    <td>aa</td>
+    <td>1</td>
+    <td>Data 1</td>
   </tr>
 </table>
 
